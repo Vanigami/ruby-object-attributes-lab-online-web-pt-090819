@@ -1,3 +1,4 @@
 class Dog 
   def initalize(name)
-    @name = 
+    @name = name
+  end
